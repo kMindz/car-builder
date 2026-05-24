@@ -13,7 +13,7 @@
     "prettyjson": "^1.2.1"
   },
   "devDependencies": {
-    "lerna": "^2.0.0-rc.4"
+    "lerna": "^9.0.7"
   },
   "repository": {
     "type": "git",
